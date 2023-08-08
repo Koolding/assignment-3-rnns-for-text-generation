@@ -1,2 +1,4 @@
-# assignment-3-rnns-for-text-generation
-This repository contains assignment 3 which is a part of the portfolio exam in the course Language Analytics at Aarhus University.
+# Assignment 3 - Language Analytics
+Author: Christian Norup Kolding (201805727)
+<br>
+Date: 10th of July 2023
