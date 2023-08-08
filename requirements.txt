@@ -1,0 +1,12 @@
+#data wrangling
+numpy
+pandas
+utils
+
+# ML
+scikit_learn
+scikit-learn
+
+# tensorflow
+tensorflow-cpu
+tensorflow-datasets
